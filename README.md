@@ -1,1 +1,2 @@
 # lagou_python
+通过使用requests模块与BeautifulSoup模块爬取拉勾网上所有的Python相关的招聘信息数据
